@@ -10,8 +10,8 @@ It provides the following crucial features for move developers:
 * move vm execution runtime with wasm
 * autonomous AI agents with eliza
 
-[demo video](https://www.youtube.com/watch?v=8piD1VG6Zf0)
-[google slide](https://docs.google.com/presentation/d/1bT2NtH3R2bFS3sQ5EJFDCPyrmsMOIxcptzQNGmEiMZE/edit?usp=sharing)
+[demo video](https://www.youtube.com/watch?v=dfVDeSDfOZQ)
+[google slide](https://docs.google.com/presentation/d/1_rOt0otQhwHimk0aibQHVkLHmOqozSICCiGY5Nf5yXE/edit?usp=sharing)
 
 ## Actions
 
